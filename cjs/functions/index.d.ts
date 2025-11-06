@@ -21,6 +21,7 @@ export * from "./parse/Unit";
 export * from "./id";
 export * from "./card";
 export * from "./config";
+export * from "./process.env";
 export * from "./donwload";
 export * from "./donwload/img";
 export * from "./cleanTextForTranslate";

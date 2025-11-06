@@ -24,6 +24,7 @@ tslib_1.__exportStar(require("./parse/Unit"), exports);
 tslib_1.__exportStar(require("./id"), exports);
 tslib_1.__exportStar(require("./card"), exports);
 tslib_1.__exportStar(require("./config"), exports);
+tslib_1.__exportStar(require("./process.env"), exports);
 tslib_1.__exportStar(require("./donwload"), exports);
 tslib_1.__exportStar(require("./donwload/img"), exports);
 tslib_1.__exportStar(require("./cleanTextForTranslate"), exports);
