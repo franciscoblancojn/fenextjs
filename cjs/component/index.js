@@ -6,6 +6,7 @@ tslib_1.__exportStar(require("./Chat/Chat"), exports);
 tslib_1.__exportStar(require("./Chat/Message"), exports);
 tslib_1.__exportStar(require("./Chat/FormSendMessage"), exports);
 tslib_1.__exportStar(require("./Chat/User"), exports);
+tslib_1.__exportStar(require("./Badge"), exports);
 tslib_1.__exportStar(require("./Text"), exports);
 tslib_1.__exportStar(require("./ContentShow"), exports);
 tslib_1.__exportStar(require("./Title"), exports);

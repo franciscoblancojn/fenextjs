@@ -3,6 +3,7 @@ export * from "./Chat/Chat";
 export * from "./Chat/Message";
 export * from "./Chat/FormSendMessage";
 export * from "./Chat/User";
+export * from "./Badge";
 export * from "./Text";
 export * from "./ContentShow";
 export * from "./Title";
